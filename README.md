@@ -1,0 +1,1 @@
+基于TWRP官方发行版编译的适用于纽曼 A6MAX MP4的Recovery设备树
